@@ -1,0 +1,5 @@
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\随机数四则运算.exe
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\随机数四则运算.pdb
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\obj\Debug\随机数四则运算.csprojResolveAssemblyReference.cache
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\obj\Debug\随机数四则运算.exe
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\obj\Debug\随机数四则运算.pdb
