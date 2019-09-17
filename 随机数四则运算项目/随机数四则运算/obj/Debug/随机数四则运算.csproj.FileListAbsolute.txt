@@ -1,0 +1,13 @@
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\随机数四则运算.exe
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\随机数四则运算.pdb
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\obj\Debug\随机数四则运算.exe
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\obj\Debug\随机数四则运算.pdb
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\随机数四则运算.exe.config
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\Castle.Core.dll
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\Ploeh.AutoFixture.dll
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\UnitTestGenerator.dll
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\Castle.Core.xml
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\bin\Debug\Ploeh.AutoFixture.xml
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\obj\Debug\随机数四则运算.csprojAssemblyReference.cache
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\obj\Debug\随机数四则运算.csproj.CoreCompileInputs.cache
+F:\软工作业\AchaoCalculator\随机数四则运算\随机数四则运算\obj\Debug\随机数四则运算.csproj.CopyComplete
